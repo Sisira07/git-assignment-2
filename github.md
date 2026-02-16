@@ -39,3 +39,11 @@ GitHub Features
 
 
 10\. Gists: Share code snippets and scripts.
+
+
+
+11\. Free Plan: Unlimited collaborators, Actions minutes, and security alerts.
+
+
+
+12\. Pro/Enterprise Plans: Advanced tools, increased storage, and support. 
