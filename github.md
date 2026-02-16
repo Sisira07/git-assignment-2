@@ -34,3 +34,8 @@ GitHub Features
 
 
 
+9\. GitHub Pages: Host static websites for projects or portfolios.
+
+
+
+10\. Gists: Share code snippets and scripts.
