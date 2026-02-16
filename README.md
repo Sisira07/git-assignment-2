@@ -7,7 +7,7 @@ Roll No  : 2024BCS-070
 Course   : Software Engineering
 Branch   : BTech. Computer Science and Engineering
 
-Semester : IV
+Semester : Fourth Semester
 
 
 
