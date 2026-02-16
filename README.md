@@ -7,3 +7,4 @@ Batch : BCS-4
 //Added more student details
 College name: IIITM Gwalior
 Department: Computer Science
+Hostel: GH
